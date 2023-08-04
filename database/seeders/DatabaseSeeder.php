@@ -28,6 +28,9 @@ class DatabaseSeeder extends Seeder
             AdminSeeder::class
         ]);
 
-        User::factory(5)->create();
+        for ($i = 0; $i < 5; $i++) {
+            $user = User::factory()->create();
+            $user->assignRole('User');
+        }
     }
 }

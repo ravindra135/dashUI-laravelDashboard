@@ -46,7 +46,7 @@
                                     <div class="d-flex px-2 py-1">
                                         <div>
                                             <!-- If User as Image it show up if not then a random picture will be displayed -->
-                                            <img src="{{ $user->avatar ?? $user->defAvatar() }}" class="avatar avatar-sm me-3" alt="avatar">
+                                            <img src="{{ $user->avatar ?? $user->defAvatar($user->id) }}" class="avatar avatar-sm me-3" alt="avatar">
                                         </div>
                                         <div class="d-flex flex-column justify-content-center">
                                             <h6 class="mb-0 text-sm">{{ $user->name }}</h6>

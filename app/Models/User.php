@@ -53,7 +53,7 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function defAvatar() {
-        return "https://i.pravatar.cc/";
+    public function defAvatar($id) {
+        return "https://i.pravatar.cc/?img=$id";
 }
 }
