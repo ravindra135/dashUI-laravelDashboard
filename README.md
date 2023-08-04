@@ -16,7 +16,7 @@ As, User, Roles, Permission Management system is a very basic requirements for e
 - Multiple Login : <strong>Super Admin, Admin, Manager, User</strong>.
 - Free Support
 - Suitable For all types of Projects.
-- 100+ Added Customized Elements.
+- Open Source
 
 ## ⭐ For Whom is Dash UI ?
 - For Developers, who want to create their new projects implementing these features. This will save a lots of your development time.
@@ -26,11 +26,18 @@ As, User, Roles, Permission Management system is a very basic requirements for e
 
 Dash UI is combined with Laravel 9 + Bootstrap 5. This also includes many inbuild components which are required for building a complete Admin Panel, like Charts, Graphs, Cards, Layouts, Tables. Dash UI is completely responsive, so you can view it on any device.
 
+> Open Source
+
 <br>
 
 ## ⭐ Support
 
-Contact me via <a href="mailto:rcubedev20@gmail.com">Email</a> | <a href="https://t.me/ravindra947">Telegram</a> | On go to Product Page on Code Canyon and Post your Question in Support Tab.
+Contact me via <a href="mailto:rcubedev20@gmail.com">Email</a> | <a href="https://t.me/ravindra947">Telegram</a> | Or Simply Start the discussion, I am happy to help you.
+
+
+## ⭐ Open to Contributions
+
+If you can contribute to this project, just simply feel free to fork the project and start experimenting, I will be happy for your contribution for the community.
 
 <br>
 
